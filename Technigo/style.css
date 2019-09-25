@@ -1,0 +1,58 @@
+header {
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    padding: 10px 0;
+}
+
+body {
+    background: rgb(219, 217, 209);
+}
+
+h1 {
+    font: arial;
+    font-size: 80px;
+    color: #c06b6b;
+    text-align: center;
+    text-shadow: 1px 1px red;
+}
+
+h2 {
+    font: arial;
+    font-size: 24px;
+    color: #c06b6b;
+    text-align: left;
+    text-shadow: 1px 1px red;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 200; 
+    line-height: 1,5;
+    text-align: justify;
+}
+
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #C1C0BA; 
+    color: white; 
+}
+
+
+ul {
+    background: #c06b6b;
+    padding: 20px;
+    font-size: 24px;
+}
+
+ul li {
+    background: #eea1a1;
+    margin: 5px;
+    font-size: 20px;
+}
